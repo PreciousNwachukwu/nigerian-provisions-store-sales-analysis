@@ -13,7 +13,7 @@ This project analyses a full year of sales data from a Nigerian general provisio
  
 The goal was to answer practical business questions that matter to a small retail owner: which products and categories drive the most revenue, when sales peak, how discounting affects profitability, and what payment methods customers prefer.
  
-The dataset was simulated using realistic Nigerian product names, Naira pricing, and demand logic that reflects actual consumer behaviour — including festive season surges in November and December, higher weekend footfall, and end-of-month salary spending patterns.
+The dataset was simulated using realistic Nigerian product names, Naira pricing, and demand logic that reflects actual consumer behaviour, including festive season surges in November and December, higher weekend footfall, and end-of-month salary spending patterns.
  
 ---
  
@@ -75,12 +75,12 @@ The dataset was simulated using realistic Nigerian product names, Naira pricing,
 ### Discount Impact
 - Transactions with **0% discount** averaged a **20.7% profit margin**
 - **5% discounts** reduced margins to **16.2%**
-- **10% discounts** cut margins further to **11.6%** — nearly halving profitability compared to full-price sales
+- **10% discounts** cut margins further to **11.6%**, nearly halving profitability compared to full-price sales
 ---
  
 ## Recommendations
  
-1. **Stock up Beverages and Grains in October–December.** The festive season consistently drives around 50% more demand — running out of stock during this period is a direct revenue loss.
+1. **Stock up Beverages and Grains in October–December.** The festive season consistently drives around 50% more demand, running out of stock during this period is a direct revenue loss.
 2. **Limit 10% discount events.** A 10% discount reduces average margins by nearly 9 percentage points compared to full-price sales. If discounts are used, 5% is a safer threshold that still incentivises purchases without severely impacting profitability.
 3. **Promote POS and bank transfer payments.** With 54% of transactions still in cash, there is meaningful operational risk in cash handling and reconciliation. Incentivising digital payments even slightly would reduce this risk.
 4. **Maintain buffer stock for fast movers on Fridays and Saturdays.** Products like Indomie, Maggi Cubes, and Gala Sausage Roll see their highest demand at weekends. Stockouts on these days disproportionately affect revenue.
